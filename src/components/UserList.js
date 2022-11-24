@@ -8,7 +8,9 @@ const UserList = ({ users }) => {
 
     return (
         <div className="userlistcard">
-            {users.map((item) => ( <UserListItem key={item.id} item={item} /> ))}
+            {(users.length != 0) ? 
+            users.map((item) => ( <UserListItem key={item.id} item={item} /> )) : 
+            "No users. Please add."}
         </div>
       )
 }
