@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sujandangi/react-user-form/static/css/main.a8f1f1c4.css",
+    "main.css": "/sujandangi/react-user-form/static/css/main.6c9d5fec.css",
     "main.js": "/sujandangi/react-user-form/static/js/main.c710a00b.js",
     "static/js/787.f2b42d3a.chunk.js": "/sujandangi/react-user-form/static/js/787.f2b42d3a.chunk.js",
     "index.html": "/sujandangi/react-user-form/index.html",
-    "main.a8f1f1c4.css.map": "/sujandangi/react-user-form/static/css/main.a8f1f1c4.css.map",
+    "main.6c9d5fec.css.map": "/sujandangi/react-user-form/static/css/main.6c9d5fec.css.map",
     "main.c710a00b.js.map": "/sujandangi/react-user-form/static/js/main.c710a00b.js.map",
     "787.f2b42d3a.chunk.js.map": "/sujandangi/react-user-form/static/js/787.f2b42d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8f1f1c4.css",
+    "static/css/main.6c9d5fec.css",
     "static/js/main.c710a00b.js"
   ]
 }
