@@ -1,0 +1,10 @@
+.userlistitem {
+    display: flex;
+    justify-content: space-between ;
+    margin: 2px 10px;
+    align-items: center;
+}
+
+.userlistitem > button {
+    color: red;
+}

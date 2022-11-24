@@ -1,0 +1,46 @@
+.userinputcard {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 5% auto 0 auto;
+    border: none;
+    border-radius: 10px; 
+}
+
+.userinputcard > label {
+    align-self: flex-start;
+    margin: 0 10px;
+    font-weight: bolder;
+}
+
+.userinputcard > input {
+    margin: 2px 10px;
+    height: 2em;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+}
+
+.userinputcard > button {
+    align-self: flex-start;
+    margin-left: 10px;
+    height: 2em;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.userinputcard [type= 'submit'] {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.userinputcard [type= 'submit']:hover {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
